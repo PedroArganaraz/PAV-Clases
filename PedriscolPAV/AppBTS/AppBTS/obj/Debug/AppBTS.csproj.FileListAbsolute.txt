@@ -1,0 +1,12 @@
+D:\PedriscolPAV\AppBTS\AppBTS\bin\Debug\AppBTS.exe.config
+D:\PedriscolPAV\AppBTS\AppBTS\bin\Debug\AppBTS.exe
+D:\PedriscolPAV\AppBTS\AppBTS\bin\Debug\AppBTS.pdb
+D:\PedriscolPAV\AppBTS\AppBTS\obj\Debug\AppBTS.csproj.AssemblyReference.cache
+D:\PedriscolPAV\AppBTS\AppBTS\obj\Debug\AppBTS.csproj.SuggestedBindingRedirects.cache
+D:\PedriscolPAV\AppBTS\AppBTS\obj\Debug\AppBTS.Properties.Resources.resources
+D:\PedriscolPAV\AppBTS\AppBTS\obj\Debug\AppBTS.csproj.GenerateResource.cache
+D:\PedriscolPAV\AppBTS\AppBTS\obj\Debug\AppBTS.csproj.CoreCompileInputs.cache
+D:\PedriscolPAV\AppBTS\AppBTS\obj\Debug\AppBTS.exe
+D:\PedriscolPAV\AppBTS\AppBTS\obj\Debug\AppBTS.pdb
+D:\PedriscolPAV\AppBTS\AppBTS\obj\Debug\AppBTS.frmLogin.resources
+D:\PedriscolPAV\AppBTS\AppBTS\obj\Debug\AppBTS.frmPrincipal.resources
